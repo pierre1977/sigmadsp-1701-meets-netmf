@@ -1,0 +1,69 @@
+Instance  7 Signal SingleBand_noRMS_2ndGen3LinX trap value 50 register 
+Instance  7 Signal SingleBand_noRMS_2ndGen3LinX_4 trap value 51 register 
+Instance  7 Signal SingleBand_noRMS_2ndGen3LinX_lo trap value 53 register 
+Instance  9 Signal SingleBand_noRMS_2ndGen4LinX trap value 75 register 
+Instance  9 Signal SingleBand_noRMS_2ndGen4LinX_4 trap value 76 register 
+Instance  9 Signal SingleBand_noRMS_2ndGen4LinX_lo trap value 78 register 
+Instance  12 Signal ReadBack1_ReadBackAlg1 trap value 219 register MAC_out
+Instance  13 Signal ReadBack2_ReadBackAlg2 trap value 222 register MAC_out
+Instance  15 Signal StdRMSCompressorAlg_2ndGen1X_lo trap value 242 register 
+Instance  15 Signal StdRMSCompressorAlg_2ndGen1X trap value 245 register 
+Instance  15 Signal StdRMSCompressorAlg_2ndGen1X_4 trap value 255 register 
+Instance  15 Signal StdRMSCompressorAlg_2ndGen1Compression trap value 281 register 
+Instance  15 Signal StdRMSCompressorAlg_2ndGen1Y trap value 288 register 
+Instance  16 Signal SingleBand_noRMS_2ndGen1LinX trap value 295 register 
+Instance  16 Signal SingleBand_noRMS_2ndGen1LinX_4 trap value 296 register 
+Instance  16 Signal SingleBand_noRMS_2ndGen1LinX_lo trap value 298 register 
+Instance  17 Signal SingleBand_noRMS_2ndGen2LinX trap value 301 register 
+Instance  17 Signal SingleBand_noRMS_2ndGen2LinX_4 trap value 302 register 
+Instance  17 Signal SingleBand_noRMS_2ndGen2LinX_lo trap value 304 register 
+Instance  33 Signal SevenBandLevelDet3rta0_out trap value 433 register mult_out
+Instance  33 Signal SevenBandLevelDet3rta1_out trap value 475 register mult_out
+Instance  33 Signal SevenBandLevelDet3rta2_out trap value 517 register mult_out
+Instance  33 Signal SevenBandLevelDet3rta3_out trap value 559 register mult_out
+Instance  33 Signal SevenBandLevelDet3rta4_out trap value 601 register mult_out
+Instance  33 Signal SevenBandLevelDet3rta5_out trap value 643 register mult_out
+Instance  33 Signal SevenBandLevelDet3rta6_out trap value 685 register mult_out
+Instance  38 Signal SingleBand_noRMS_2ndGen17LinX trap value 699 register 
+Instance  38 Signal SingleBand_noRMS_2ndGen17LinX_4 trap value 700 register 
+Instance  38 Signal SingleBand_noRMS_2ndGen17LinX_lo trap value 702 register 
+Instance  49 Signal SingleBand_noRMS_2ndGen9LinX trap value 895 register 
+Instance  49 Signal SingleBand_noRMS_2ndGen9LinX_4 trap value 896 register 
+Instance  49 Signal SingleBand_noRMS_2ndGen9LinX_lo trap value 898 register 
+Instance  50 Signal SingleBand_noRMS_2ndGen10LinX trap value 901 register 
+Instance  50 Signal SingleBand_noRMS_2ndGen10LinX_4 trap value 902 register 
+Instance  50 Signal SingleBand_noRMS_2ndGen10LinX_lo trap value 904 register 
+Instance  51 Signal SingleBand_noRMS_2ndGen11LinX trap value 907 register 
+Instance  51 Signal SingleBand_noRMS_2ndGen11LinX_4 trap value 908 register 
+Instance  51 Signal SingleBand_noRMS_2ndGen11LinX_lo trap value 910 register 
+Instance  52 Signal SingleBand_noRMS_2ndGen12LinX trap value 913 register 
+Instance  52 Signal SingleBand_noRMS_2ndGen12LinX_4 trap value 914 register 
+Instance  52 Signal SingleBand_noRMS_2ndGen12LinX_lo trap value 916 register 
+Instance  53 Signal SingleBand_noRMS_2ndGen13LinX trap value 919 register 
+Instance  53 Signal SingleBand_noRMS_2ndGen13LinX_4 trap value 920 register 
+Instance  53 Signal SingleBand_noRMS_2ndGen13LinX_lo trap value 922 register 
+Instance  54 Signal SingleBand_noRMS_2ndGen14LinX trap value 925 register 
+Instance  54 Signal SingleBand_noRMS_2ndGen14LinX_4 trap value 926 register 
+Instance  54 Signal SingleBand_noRMS_2ndGen14LinX_lo trap value 928 register 
+Instance  55 Signal SingleBand_noRMS_2ndGen15LinX trap value 931 register 
+Instance  55 Signal SingleBand_noRMS_2ndGen15LinX_4 trap value 932 register 
+Instance  55 Signal SingleBand_noRMS_2ndGen15LinX_lo trap value 934 register 
+Instance  56 Signal SingleBand_noRMS_2ndGen5LinX trap value 937 register 
+Instance  56 Signal SingleBand_noRMS_2ndGen5LinX_4 trap value 938 register 
+Instance  56 Signal SingleBand_noRMS_2ndGen5LinX_lo trap value 940 register 
+Instance  57 Signal SingleBand_noRMS_2ndGen6LinX trap value 943 register 
+Instance  57 Signal SingleBand_noRMS_2ndGen6LinX_4 trap value 944 register 
+Instance  57 Signal SingleBand_noRMS_2ndGen6LinX_lo trap value 946 register 
+Instance  58 Signal SingleBand_noRMS_2ndGen7LinX trap value 949 register 
+Instance  58 Signal SingleBand_noRMS_2ndGen7LinX_4 trap value 950 register 
+Instance  58 Signal SingleBand_noRMS_2ndGen7LinX_lo trap value 952 register 
+Instance  59 Signal ReadBack2_2_ReadBackAlg3 trap value 954 register MAC_out
+Instance  60 Signal ReadBack2_3_ReadBackAlg4 trap value 957 register MAC_out
+Instance  61 Signal ReadBack2_4_ReadBackAlg5 trap value 960 register MAC_out
+Instance  62 Signal ReadBack2_5_ReadBackAlg6 trap value 963 register MAC_out
+Instance  63 Signal ReadBack2_6_ReadBackAlg7 trap value 966 register MAC_out
+Instance  64 Signal ReadBack2_7_ReadBackAlg8 trap value 969 register MAC_out
+Instance  65 Signal ReadBack2_8_ReadBackAlg9 trap value 972 register MAC_out
+Instance  66 Signal ReadBack2_9_ReadBackAlg10 trap value 975 register MAC_out
+Instance  67 Signal ReadBack2_10_ReadBackAlg11 trap value 978 register MAC_out
+Instance  68 Signal ReadBack2_11_ReadBackAlg12 trap value 981 register MAC_out
