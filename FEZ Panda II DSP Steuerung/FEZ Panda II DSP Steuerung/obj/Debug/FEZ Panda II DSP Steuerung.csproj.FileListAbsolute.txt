@@ -1,0 +1,32 @@
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\FEZ_Panda_II_DSP_Steuerung.Resources.resources
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\FEZ Panda II DSP Steuerung.csproj.GenerateResource.Cache
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\FEZ_Panda_II_DSP_Steuerung.Resources.tinyresources
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\TinyResGen.cache
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\le\FEZ Panda II Application.exe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\be\FEZ Panda II Application.exe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\le\FEZ Panda II Application.pdb
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\be\FEZ Panda II Application.pdb
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\FEZ Panda II Application.exe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\FEZ Panda II Application.pdb
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\le\FEZ Panda II Application.pe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\le\FEZ Panda II Application.pdbx
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\be\FEZ Panda II Application.pe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\be\FEZ Panda II Application.pdbx
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\GHIElectronics.NETMF.System.dll
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\bin\Debug\GHIElectronics.NETMF.System.xml
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\be\FEZ Panda II Application.pe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\be\FEZ Panda II Application.pdbx
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\le\FEZ Panda II Application.pe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\le\FEZ Panda II Application.pdbx
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\FEZ Panda II Application.exe
+D:\1_Programming\1_MicroCPU\1_Projekte\Panda_Audio_DSP_1701\FEZ Panda II DSP Steuerung\FEZ Panda II DSP Steuerung\obj\Debug\FEZ Panda II Application.pdb
